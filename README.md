@@ -1,6 +1,7 @@
-### Hey, I am Bhanupratap ! 👋🖖
 
-
+<H1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, I am Bhanupratap ! 👋🖖 </H1>
+  
+  
 - 🌱 I’m currently learning: React-Native.
 - ⚡ Fun fact: Bing is better for answers ! 😁
 
