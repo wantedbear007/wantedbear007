@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [API-Java](https://github.com/wantedbear007/API-JavaSpringBoot)
 
-- 🌱 I’m currently learning **Google Flutter, Java SpringBoot**
+- 🌱 I’m currently learning **Google Flutter, Java SpringBooooooooooooooooot**
 
 - 👯 I’m looking to collaborate on **Flutter Development**
 
