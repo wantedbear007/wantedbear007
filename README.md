@@ -15,7 +15,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-axCTr10q2RNcRvpbOq1F0fNWbGCIhMg/view?usp=sharing](https://drive.google.com/file/d/1-axCTr10q2RNcRvpbOq1F0fNWbGCIhMg/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
