@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://bhanupratap-singh.vercel.app](https://bhanupratap-singh.vercel.app)
 
-- 📝 I regularly write articles on [https://bhanupratap-singh.vercel.app/blogs](https://bhanupratap-singh.vercel.app/blogs)
+- 📝 I write articles on [https://bhanupratap-singh.vercel.app/blogs](https://bhanupratap-singh.vercel.app/blogs)
 
 - 💬 Ask me about **React, Python, React-native**
 
