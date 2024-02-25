@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhanupratap Singh</h1>
 <h3 align="center">Constructing pixels and logics.</h3>
 
-- 🔭 I’m currently working on [API-Java](https://github.com/wantedbear007/API-JavaSpringBoot)
+- 🔭 I’m currently working on [Onebyte-backend](https://github.com/wantedbear007/onebyte-Backend)
 
 - 🌱 I’m currently learning **Google Flutter, Java SpringBooooooooooooooooot**
 
@@ -11,7 +11,7 @@
 
 - 📝 I write articles on [https://bhanupratap-singh.vercel.app/blogs](https://bhanupratap-singh.vercel.app/blogs)
 
-- 💬 Ask me about **React, Python, React-native**
+- 💬 Ask me about **React, Python, React-native, Flutter, Next JS**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-axCTr10q2RNcRvpbOq1F0fNWbGCIhMg/view?usp=sharing](https://drive.google.com/file/d/1-axCTr10q2RNcRvpbOq1F0fNWbGCIhMg/view?usp=sharing)
 
