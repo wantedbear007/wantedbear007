@@ -1,8 +1,9 @@
-<h1 align="center">01111111000000000000000000000001</h1>
+<h2 align="left">Hey there 👋 ! (^///^)</h2>
+<h3 align="left">I do FullStack, DevOps, AWS things.</h3>
 
 - 🔭 I’m currently working on [Onebyte-backend](https://github.com/wantedbear007/onebyte-Backend)
 
-- 🌱 I’m currently learning **WebThree(3) |||||||| Rusttttt**
+- 🌱 I’m currently learning **WEB(3) |||||||| Rusttttt**
 
 - 👯 I’m looking to collaborate on **Flutter Development**
 
