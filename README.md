@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Bhanupratap Singh</h1>
-<h3 align="center">Constructing pixels and logics.</h3>
+<h1 align="center">Bhanupratap Singh / Wantedbear007</h1>
 
 - 🔭 I’m currently working on [Onebyte-backend](https://github.com/wantedbear007/onebyte-Backend)
 
-- 🌱 I’m currently learning **Web3 |||||||| Rust**
+- 🌱 I’m currently learning **WebThree(3) |||||||| Rusttttt**
 
 - 👯 I’m looking to collaborate on **Flutter Development**
 
@@ -11,9 +10,7 @@
 
 - 📝 I write articles on [https://bhanupratap-singh.vercel.app/blogs](https://bhanupratap-singh.vercel.app/blogs)
 
-- 💬 Ask me about **React, Python, React-native, Flutter, Next JS**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-axCTr10q2RNcRvpbOq1F0fNWbGCIhMg/view?usp=sharing](https://drive.google.com/file/d/1-axCTr10q2RNcRvpbOq1F0fNWbGCIhMg/view?usp=sharing)
+- 💬 Ask me about **React, Python, React-native, Flutter, Next, Express**
 
 <p align="left">
 </p>
