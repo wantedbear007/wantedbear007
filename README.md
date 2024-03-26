@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Onebyte-backend](https://github.com/wantedbear007/onebyte-Backend)
 
-- 🌱 I’m currently learning **Google Flutter, Java SpringBooooooooooooooooot**
+- 🌱 I’m currently learning **Web3 |||||||| Rust**
 
 - 👯 I’m looking to collaborate on **Flutter Development**
 
