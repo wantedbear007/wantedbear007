@@ -1,4 +1,4 @@
-<h1 align="center">Bhanupratap Singh / Wantedbear007</h1>
+<h1 align="center">01111111000000000000000000000001</h1>
 
 - 🔭 I’m currently working on [Onebyte-backend](https://github.com/wantedbear007/onebyte-Backend)
 
@@ -10,7 +10,7 @@
 
 - 📝 I write articles on [https://bhanupratap-singh.vercel.app/blogs](https://bhanupratap-singh.vercel.app/blogs)
 
-- 💬 Ask me about **React, Python, React-native, Flutter, Next, Express**
+- 💬 Ask me about **MERN, React-native, Flutter, Rust**
 
 <p align="left">
 </p>
