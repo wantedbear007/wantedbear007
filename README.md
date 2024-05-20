@@ -11,7 +11,7 @@
 
 - 📝 I write articles on [https://bhanupratap-singh.vercel.app/blogs](https://bhanupratap-singh.vercel.app/blogs)
 
-- 💬 Ask me about **MERN, React-native, Flutter, Rust**
+- 💬 Ask me about **MERN, React-native, Flutter.**
 
 <p align="left">
 </p>
