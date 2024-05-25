@@ -1,7 +1,7 @@
 <h2 align="left">Hey there 👋 ! (^///^)</h2>
 <h3 align="left">I do FullStack, DevOps, AWS things.</h3>
 
-- 🔭 I’m currently working on [Onebyte-backend](https://github.com/wantedbear007/onebyte-Backend)
+- 🔭 I’m currently working on [Compass](https://github.com/wantedbear007/Compass)
 
 - 🌱 I’m currently learning **WEB(3) |||||||| Rusttttt**
 
