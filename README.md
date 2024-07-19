@@ -1,9 +1,9 @@
 <h2 align="left">Hey there 👋 ! (^///^)</h2>
 <h3 align="left">I do FullStack, DevOps, AWS things.</h3>
 
-- 🔭 I’m currently working on [Compass](https://github.com/wantedbear007/Compass)
+- 🔭 I’m currently working for QuadB Technologies
 
-- 🌱 I’m currently learning **WEB(3) |||||||| Rusttttt**
+- 🌱 I’m currently learning **Solana**
 
 - 👯 I’m looking to collaborate on **Flutter Development**
 
@@ -11,7 +11,7 @@
 
 - 📝 I write articles on [https://bhanupratap-singh.vercel.app/blogs](https://bhanupratap-singh.vercel.app/blogs)
 
-- 💬 Ask me about **Backend Development and Communications, React-native, Flutter.**
+- 💬 Ask me about **Backend Development and Communications, React-native, Flutter, Internet Computer Blockchain.**
 
 <p align="left">
 </p>
