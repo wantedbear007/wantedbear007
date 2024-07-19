@@ -1,5 +1,5 @@
 <h2 align="left">Hey there 👋 ! (^///^)</h2>
-<h3 align="left">I do FullStack, DevOps, Chain things.</h3>
+<h3 align="left">I do FullStack, DevOps, Blockchain things.</h3>
 
 - 🔭 I’m currently working for QuadB Technologies
 
