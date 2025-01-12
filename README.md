@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working for QuadB Technologies
 
-- 🌱 I’m currently learning **Solana**
+- 🌱 I’m currently learning **Spring, Hibernate, Spring Boot, Microservices**
 
 - 👯 I’m looking to collaborate on **Flutter Development**
 
