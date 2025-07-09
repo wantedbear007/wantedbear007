@@ -1,11 +1,7 @@
 <h2 align="left">Hey there 👋 ! (^///^)</h2>
 <h3 align="left">I do FullStack, DevOps, Blockchain things.</h3>
 
-- 🔭 I’m currently working for QuadB Technologies
-
-- 🌱 I’m currently learning **Spring, Hibernate, Spring Boot, Microservices**
-
-- 👯 I’m looking to collaborate on **Flutter Development**
+- 🔭 I’m currently working for KaiFoundry
 
 - 👨‍💻 All of my projects are available at [https://bhanupratap-singh.vercel.app](https://bhanupratap-singh.vercel.app)
 
